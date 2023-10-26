@@ -12,5 +12,6 @@ public class TestClass {
     @Test
     private void aaa1() {
         System.out.println("test1");
+        System.out.println("2222");
     }
 }
